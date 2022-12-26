@@ -14,7 +14,7 @@ from typing import List  # noqa: F401from typing import List  # noqa: F401
 mod = "mod4"              # Sets mod key to SUPER/WINDOWS
 myTerm = "alacritty"      # My terminal of choice
 myBrowser = "google-chrome-beta" # My browser of choice
-myRun = "krunner" # My program runner
+myRun = "rofi -show run" # My program runner
 
 keys = [
          ### The essentials
