@@ -1,0 +1,5 @@
+[user]
+	email = morris.plm@gmail.com
+	name = Phil Morris
+[init]
+	defaultBranch = .dotfiles
