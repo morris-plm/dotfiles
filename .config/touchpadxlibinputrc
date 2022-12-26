@@ -1,0 +1,6 @@
+[Elan Touchpad]
+clickMethodAreas=false
+clickMethodClickfinger=true
+disableWhileTyping=false
+tapDragLock=true
+tapToClick=true
